@@ -28,3 +28,5 @@ A simple command-line calculator built with Python to demonstrate foundational p
 ├── multiply(x, y)       # Returns product
 ├── divide(x, y)         # Returns quotient
 └── Main loop            # Handles user interaction
+
+![screenshot](https://github.com/user-attachments/assets/e34ca6f7-f496-45e3-824b-ee8f0a10419d)
